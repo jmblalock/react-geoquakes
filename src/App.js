@@ -1,4 +1,5 @@
 import React from 'react';
+import EarthQuakeModel from './models/EarthQuake';
 
 import './App.css';
 
